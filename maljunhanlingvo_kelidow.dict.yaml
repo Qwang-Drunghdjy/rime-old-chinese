@@ -1,0 +1,60 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 上古漢語
+# author：汪仲時
+# 二〇二四年五月二十五日, 徐州
+
+---
+name: maljunhanlingvo_kelidow
+version: "1.0"
+sort: original
+use_preset_vocabulary: false
+...
+
+ɬ	g
+p	f
+b	d
+m	s
+ɮ	a
+s	h
+t	j
+d	k
+n	l
+z	m
+x	t
+k	r
+ɡ	e
+ŋ	w
+ɣ	q
+χ	y
+q	u
+ɢ	i
+ɴ	o
+ʁ	p
+
+r	[
+l	]
+j	/
+w	,
+̠	.
+ʔ	;
+h	'
+ʲ	?
+ʷ	<
+ˤ	>
+̥	:
+ʰ	"
+
+a	v
+i	z
+ɯ	x
+u	c
+e	n
+o	b
+
+˥	5
+˦	4
+˧	3
+˨	2
+˩	1
